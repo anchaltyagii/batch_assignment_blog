@@ -1,5 +1,8 @@
 # Responsive Blog Page
 
+Deployed URL: [https://anchaltyagi-batch-assignment-blog.vercel.app/](https://anchaltyagi-batch-assignment-blog.vercel.app/)
+
+
 ## Getting Started
 
 This repository contains a project for creating a responsive blog page using Next.js and styled using Tailwind CSS, based on the provided Figma design. The design is intended to be clean, user-friendly, and aesthetically pleasing.
