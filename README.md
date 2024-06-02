@@ -2,6 +2,8 @@
 
 Deployed URL: [https://anchaltyagi-batch-assignment-blog.vercel.app/](https://anchaltyagi-batch-assignment-blog.vercel.app/)
 
+GitHub URL: [https://github.com/anchaltyagii/batch_assignment_blog](https://github.com/anchaltyagii/batch_assignment_blog)
+
 
 ## Getting Started
 
