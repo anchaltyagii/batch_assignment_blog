@@ -1,0 +1,14 @@
+.hoverEffect {
+  transition: transform 0.3s ease;
+}
+
+.hoverEffect:hover {
+  transform: translateY(-5px);
+  background: rgb(220, 188, 25);
+  background: linear-gradient(
+    0deg,
+    rgba(220, 188, 25, 1) 4%,
+    rgba(174, 80, 140, 0.32834383753501406) 67%
+  );
+  cursor: pointer;
+}
